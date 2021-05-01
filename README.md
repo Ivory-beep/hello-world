@@ -1,2 +1,2 @@
 # hello-world
-im trying to learn to code 
+im currently trying to learn how to do js python and html 
